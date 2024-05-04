@@ -1,4 +1,4 @@
-﻿RegionCode,RegionName,CountryCode,CountryName,Year,Sex,SuicideCount,DeathRatePer100K,GDPPerCapita,GNIPerCapita,InflationRate,EmploymentPopulationRatio
+﻿CodeRegion,Nom_Region,Code_Pays,Nom_Pays,Annee,Sex,Nombre_Suicide,RatioDecesPar100K,GDPPerCapita,GNIPerCapita,InflationRate,EmploymentPopulationRatio
 EU,Europe,ALB,Albania,1992,Male,33,2.07638583,200.8522198,1740,226.0054213,45.315
 EU,Europe,ALB,Albania,1992,Female,14,0.87456272,200.8522198,1740,226.0054213,45.315
 EU,Europe,ALB,Albania,1993,Male,46,2.93723262,367.2792251,2110,85.00475124,47.798
